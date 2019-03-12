@@ -18,25 +18,28 @@ A curated list of papers for object detection in aerial scenes and related appli
 
 
 ### 2018 Papers
-- [2018 - MSFgNet: A Novel Compact End-to-End Deep Network for Moving Object Detection](https://ieeexplore.ieee.org/abstract/document/8546771)
- - [2018 - Local Compact Binary Patterns for Background Subtraction in Complex Scenes](https://ieeexplore.ieee.org/abstract/document/8545062)
- - [2018 - A Co-occurrence Background Model with Hypothesis on Degradation Modification for Object Detection in Strong Background Changes](https://ieeexplore.ieee.org/abstract/document/8546132)
- - [2018 - Background Subtraction via 3D Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8545320)
- - [2018 - Foreground Detection in Surveillance Video with Fully Convolutional Semantic Network](https://ieeexplore.ieee.org/abstract/document/8451816/)
- - [2018 - BSCGAN: Deep Background Subtraction with Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8451603/)
- - [2018 - Combining Background Subtraction Algorithms with Convolutional Neural Network](https://arxiv.org/abs/1807.02080)
+- [2018 - Convolutional SVM Networks for Object Detection in UAV Imagery] (https://ieeexplore.ieee.org/document/8288824)
+- [2018 - Semantic Labeling Based Vehicle Detection in Aerial Imagery] (https://ieeexplore.ieee.org/document/8354178)
+- [2018 - The Unmanned Aerial Vehicle Benchmark- Object Detection and Tracking] (https://arxiv.org/abs/1804.00518)
+- [2018 - Vehicle Detection and Counting in High-Resolution Aerial Images Using Convolutional Regression Neural Network] (https://ieeexplore.ieee.org/iel7/6287639/8274985)
+- [2018 - Vehicle Detection in Aerial Images] (https://arxiv.org/abs/1801.07339)
+- 
 
 ### 2017 Papers
-
+- [2017 - Fast Deep Vehicle Detection in Aerial Images]
+(https://ieeexplore.ieee.org/document/7926624)
+- [2017 - Toward Fast and Accurate Vehicle Detection in Aerial Images Using Coupled Region-Based Convolutional Neural Networks] (https://ieeexplore.ieee.org/document/7921594)
+- [2017 - Fast multidirectional vehicle detection on aerial images using region based convolutional neural networks] (https://ieeexplore.ieee.org/document/8127335)
+- [2017 - Deep Multi-modal Vehicle Detection in Aerial ISR Imagery] (http://ieeexplore.ieee.org/document/7926690/)
+- [2017 - A closer look- Small object detection in faster R-CNN] (https://ieeexplore.ieee.org/abstract/document/8019550)
 
 ### 2016 Papers
 
 
-## GAN Based Papers
-### 2018 Papers
-
-
 ## Non-Deep Learning based Papers
+- [2017 - An On-Road Vehicle Detection Method for High-Resolution Aerial Images Based on Local and Global Structure Learning] (https://ieeexplore.ieee.org/document/7937949/)
+- [2017 - An Enhanced Viola-Jones Vehicle Detection Method From Unmanned Aerial Vehicles Imagery] (https://ieeexplore.ieee.org/abstract/document/7726065/)
+
 
 ### Landmark Papers in Background Subtraction
 
@@ -48,14 +51,10 @@ A curated list of papers for object detection in aerial scenes and related appli
 ## Review/survey Papers
 
 ## Datasets
-- [DOTA](https://captain-whu.github.io/DOTA/), [paper - DOTA: A Large-scale Dataset for Object DeTection in Aerial Images](https://arxiv.org/abs/1711.10398)
-- [SBI](http://sbmi2015.na.icar.cnr.it/SBIdataset.html)
-- [SBM-RGBD](http://rgbd2017.na.icar.cnr.it/SBM-RGBDdataset.html)
-- [Wallflower](https://www.microsoft.com/en-us/research/people/jckrumm/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjckrumm%2Fwallflower%2Ftestimages.htm)
-- [fish4knowledge](http://groups.inf.ed.ac.uk/f4k/)
-- [MARDCT](http://labrococo.dis.uniroma1.it/MAR/)
-- [MuHavi](http://velastin.dynu.com/MuHAVi-MAS/)
-- [LASIESTA](https://www.sciencedirect.com/science/article/pii/S1077314216301138)
+- [DOTA](https://captain-whu.github.io/DOTA/), [2018 - DOTA: A Large-scale Dataset for Object DeTection in Aerial Images](https://arxiv.org/abs/1711.10398)
+- [UAVDT](https://sites.google.com/site/daviddo0323/projects/uavdt), [2018 - The Unmanned Aerial Vehicle Benchmark- Object Detection and Tracking] (https://arxiv.org/abs/1804.00518)
+- [VEDAI] (https://downloads.greyc.fr/vedai), [2015 - VEDAI Vehicle Detection in Aerial Imagery: A small target detection](https://hal.archives-ouvertes.fr/hal-01122605v2/document)
+
 ## Awesome Researchers
  
 ## Awesome Resources
