@@ -65,7 +65,8 @@ A curated list of papers for object detection in aerial scenes and related appli
 - [DOTA](https://captain-whu.github.io/DOTA/), [2018 - DOTA: A Large-scale Dataset for Object DeTection in Aerial Images](https://arxiv.org/abs/1711.10398)
 - [UAVDT](https://sites.google.com/site/daviddo0323/projects/uavdt), [2018 - The Unmanned Aerial Vehicle Benchmark- Object Detection and Tracking](https://arxiv.org/abs/1804.00518)
 - [VEDAI](https://downloads.greyc.fr/vedai), [2015 - VEDAI Vehicle Detection in Aerial Imagery: A small target detection](https://hal.archives-ouvertes.fr/hal-01122605v2/document)
-- [DLR-3K]
+- [DLR-3K](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5431/9230_read-42467/)
+- [NWPU VHR-10 dataset](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html), [2016 - Learning rotation-invariant convolutional neural networks for object detection in VHR optical remote sensing images](https://ieeexplore.ieee.org/iel7/36/4358825/07560644.pdf)
 
 ## Awesome Researchers
  
