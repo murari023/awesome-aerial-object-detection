@@ -1,14 +1,16 @@
 # awesome-aerial-object-detection
 A curated list of papers for object detection in aerial scenes and related application resources
 
+## Upcoming Deadlines for Conference/Workshops/Special Issues
+- 
 ## Contents
- - [Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#deep-learning-based-papers)
- - [Non-Deep Learning based Papers](https://github.com/murari023/awesome-background-subtraction#non-deep-learning-based-papers)
- - [Review/survey papers](https://github.com/murari023/awesome-background-subtraction#reviewsurvey-papers)
- - [Datasets](https://github.com/murari023/awesome-background-subtraction#datasets)
- - [Awesome Researchers](https://github.com/murari023/awesome-background-subtraction#awesome-researchers)
- - [Awesome Resources](https://github.com/murari023/awesome-background-subtraction#awesome-resources)
- - [Projects](https://github.com/murari023/awesome-background-subtraction/blob/master/README.md#projects)
+ - [Deep Learning based Papers](https://github.com/murari023/awesome-aerial-object-detection#deep-learning-based-papers)
+ - [Non-Deep Learning based Papers](https://github.com/murari023/awesome-aerial-object-detection#non-deep-learning-based-papers)
+ - [Review/survey papers](https://github.com/murari023/awesome-aerial-object-detection#reviewsurvey-papers)
+ - [Datasets](https://github.com/murari023/awesome-aerial-object-detection#datasets)
+ - [Awesome Researchers](https://github.com/murari023/awesome-aerial-object-detection#awesome-researchers)
+ - [Awesome Resources](https://github.com/murari023/awesome-aerial-object-detection#awesome-resources)
+ - [Projects](https://github.com/murari023/awesome-aerial-object-detection/blob/master/README.md#projects)
 
 ## Deep Learning based Papers
 
