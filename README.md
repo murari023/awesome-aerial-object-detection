@@ -48,7 +48,7 @@ A curated list of papers for object detection in aerial scenes and related appli
 ## Review/survey Papers
 
 ## Datasets
-- [DOTA](https://captain-whu.github.io/DOTA/)[DOTA: A Large-scale Dataset for Object DeTection in Aerial Images](https://arxiv.org/abs/1711.10398)
+- [DOTA](https://captain-whu.github.io/DOTA/), [paper - DOTA: A Large-scale Dataset for Object DeTection in Aerial Images](https://arxiv.org/abs/1711.10398)
 - [SBI](http://sbmi2015.na.icar.cnr.it/SBIdataset.html)
 - [SBM-RGBD](http://rgbd2017.na.icar.cnr.it/SBM-RGBDdataset.html)
 - [Wallflower](https://www.microsoft.com/en-us/research/people/jckrumm/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fjckrumm%2Fwallflower%2Ftestimages.htm)
