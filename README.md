@@ -73,7 +73,7 @@ A curated list of papers for object detection in aerial scenes and related appli
 ## Awesome Resources
 
 ## Projects
-
+- [VisionIntelligenceLab](https://visionintelligence.github.io/)
 
 ## Contributions are always welcomed!
 If you have any suggestions (missing papers, projects, source code, new papers, key researchers, dataset, etc.), please feel free to edit and pull a request. (or just let me know the title of paper)
