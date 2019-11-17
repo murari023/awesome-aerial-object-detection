@@ -113,6 +113,7 @@ A curated list of papers for object detection in aerial scenes and related appli
 - [NWPU VHR-10 dataset](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html), [2016 - Learning rotation-invariant convolutional neural networks for object detection in VHR optical remote sensing images](https://ieeexplore.ieee.org/iel7/36/4358825/07560644.pdf)
 - [Aerial Elephant](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Naude_The_Aerial_Elephant_Dataset_A_New_Public_Benchmark_for_Aerial_CVPRW_2019_paper.pdf), [2019-The Aerial Elephant Dataset: A New Public Benchmark for Aerial Object Detection.](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Naude_The_Aerial_Elephant_Dataset_A_New_Public_Benchmark_for_Aerial_CVPRW_2019_paper.pdf)
 - [Vehicle Re-ID](https://arxiv.org/abs/1904.01400), [2019-Vehicle Re-identification in Aerial Imagery: Dataset and Approach]
+- [Okutama](http://okutama-action.org/), [2017-Okutama-action:An aerial view video dataset for concurrent human action detection](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w34/html/Barekatain_Okutama-Action_An_Aerial_CVPR_2017_paper.html)
 
 
 ## Awesome Researchers
