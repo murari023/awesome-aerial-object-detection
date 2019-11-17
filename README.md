@@ -25,6 +25,7 @@ A curated list of papers for object detection in aerial scenes and related appli
 
 ## 2019 Papers
 ### Journals
+- [2019-ORSIm Detector: A novel object detection framework in optical remote sensing imagery using spatial-frequency channel features](https://ieeexplore.ieee.org/abstract/document/8654203/) (**2019 - IEEE Transactions on Geoscience and Remote Sensing**)
 - [2019-Dac-sdc low power object detection challenge for uav applications](https://ieeexplore.ieee.org/abstract/document/8787881/) (**2019-TPAMI**)
 - [2019 - AVDNet: A SmallSized Vehicle Detection Network for Aerial Visual Data](https://arxiv.org/abs/1907.07477) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 - [2019 - Vehicle Detection in High-Resolution Images Using Superpixel Segmentation and CNN Iteration Strategy](https://www.researchgate.net/publication/327616822_Vehicle_Detection_in_High-Resolution_Images_Using_Superpixel_Segmentation_and_CNN_Iteration_Strategy) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
