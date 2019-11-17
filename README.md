@@ -49,6 +49,8 @@ A curated list of papers for object detection in aerial scenes and related appli
  - [2019-The effects of super-resolution on object detection performance in satellite imagery](http://openaccess.thecvf.com/content_CVPRW_2019/html/EarthVision/Shermeyer_The_Effects_of_Super-Resolution_on_Object_Detection_Performance_in_Satellite_CVPRW_2019_paper.html) (**CVPRW-2019**)
 
 ## 2018 Papers
+### Journals
+- [2018-Detection ofMulticlass Objects in Optical Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/8573851/) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 - [2018 - Convolutional SVM Networks for Object Detection in UAV Imagery](https://ieeexplore.ieee.org/document/8288824)
 - [2018 - Semantic Labeling Based Vehicle Detection in Aerial Imagery](https://ieeexplore.ieee.org/document/8354178)
 - [2018 - The Unmanned Aerial Vehicle Benchmark- Object Detection and Tracking](https://arxiv.org/abs/1804.00518)
@@ -56,6 +58,7 @@ A curated list of papers for object detection in aerial scenes and related appli
 - [2018 - Vehicle Detection in Aerial Images](https://arxiv.org/abs/1801.07339)
 - [2018 - Multiscale Visual Attention Networks for Object Detection in VHR Remote Sensing Images](http://ieeexplore.ieee.org/document/8513990/)
 - [2018 - Rotation-Insensitive and Context-Augmented Object Detection in Remote Sensing Images](https://ieeexplore.ieee.org/document/8240988)
+### Conferences
 
 ## 2017 Papers
 - [2017 - Fast Deep Vehicle Detection in Aerial Images](https://ieeexplore.ieee.org/document/7926624)
