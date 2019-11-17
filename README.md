@@ -34,8 +34,13 @@ A curated list of papers for object detection in aerial scenes and related appli
 
 ### Conference
 - [2019 - Learning RoI Transformer for Oriented Object Detection in Aerial Images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Learning_RoI_Transformer_for_Oriented_Object_Detection_in_Aerial_Images_CVPR_2019_paper.pdf) (**-CVPR-2019**)
-
-
+ - [2019 - SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes](https://ieeexplore.ieee.org/abstract/document/8803262/) (**ICIP-2019**)
+ - [2019 - SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects](SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects) (**ICCV-2019**)
+ - [2019-Cropping Region Proposal Network Based Framework for Efficient Object Detection on Large Scale Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/8784756/) (**ICME-2019**)
+ - [2019-Feature-Attentioned Object Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/8803521/)  (**ICIP-2019**)
+ - [2019-Patch-Level Augmentation for Object Detection in Aerial Images](http://openaccess.thecvf.com/content_ICCVW_2019/html/VISDrone/Hong_Patch-Level_Augmentation_for_Object_Detection_in_Aerial_Images_ICCVW_2019_paper.html) (**ICCVW-2019**)
+ - [2019-Towards universal object detection by domain attention](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Towards_Universal_Object_Detection_by_Domain_Attention_CVPR_2019_paper.html) (**CVPR-2019**)
+ - [2019-Learning Object-Wise Semantic Representation for Detection in Remote Sensing Imagery](http://openaccess.thecvf.com/content_CVPRW_2019/html/DOAI/Li_Learning_Object-Wise_Semantic_Representation_for_Detection_in_Remote_Sensing_Imagery_CVPRW_2019_paper.html) (**CVPRW-2019**)
 
 ## 2018 Papers
 - [2018 - Convolutional SVM Networks for Object Detection in UAV Imagery](https://ieeexplore.ieee.org/document/8288824)
@@ -101,6 +106,8 @@ A curated list of papers for object detection in aerial scenes and related appli
 - [VEDAI](https://downloads.greyc.fr/vedai), [2015 - VEDAI Vehicle Detection in Aerial Imagery: A small target detection](https://hal.archives-ouvertes.fr/hal-01122605v2/document)
 - [DLR-3K](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5431/9230_read-42467/)
 - [NWPU VHR-10 dataset](http://www.escience.cn/people/gongcheng/NWPU-VHR-10.html), [2016 - Learning rotation-invariant convolutional neural networks for object detection in VHR optical remote sensing images](https://ieeexplore.ieee.org/iel7/36/4358825/07560644.pdf)
+- [Aerial Elephant](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Naude_The_Aerial_Elephant_Dataset_A_New_Public_Benchmark_for_Aerial_CVPRW_2019_paper.pdf), [2019-The Aerial Elephant Dataset: A New Public Benchmark for Aerial Object Detection.](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Naude_The_Aerial_Elephant_Dataset_A_New_Public_Benchmark_for_Aerial_CVPRW_2019_paper.pdf)
+
 
 ## Awesome Researchers
  
