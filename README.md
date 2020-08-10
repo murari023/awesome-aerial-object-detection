@@ -11,7 +11,10 @@ A curated list of papers for object detection in aerial scenes and related appli
  - [Projects](https://github.com/murari023/awesome-aerial-object-detection/blob/master/README.md#projects)
 
 ## Deep Learning based Papers
-
+## 2020 Papers
+### Conference
+ - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
+ 
 ## 2019 Papers
 ### Journals
 - [2019-ORSIm Detector: A novel object detection framework in optical remote sensing imagery using spatial-frequency channel features](https://ieeexplore.ieee.org/abstract/document/8654203/) (**2019 - IEEE Transactions on Geoscience and Remote Sensing**)
