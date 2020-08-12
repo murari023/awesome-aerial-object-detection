@@ -12,6 +12,9 @@ A curated list of papers for object detection in aerial scenes and related appli
 
 ## Deep Learning based Papers
 ## 2020 Papers
+### Journals
+ - [2020 - Vehicle and Vessel Detection on Satellite Imagery: A Comparative Study on Single-Shot Detectors](https://www.mdpi.com/2072-4292/12/7/1217) (**2020 - MDPI Remote Sensing**)
+
 ### Conference
  - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
  
