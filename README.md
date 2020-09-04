@@ -13,25 +13,28 @@ A curated list of papers for object detection in aerial scenes and related appli
 ## Deep Learning based Papers
 ## 2020 Papers
 ### Journals
- - [2020 - Vehicle and Vessel Detection on Satellite Imagery: A Comparative Study on Single-Shot Detectors](https://www.mdpi.com/2072-4292/12/7/1217) (**2020 - MDPI Remote Sensing**)
+ - [2020-Vehicle and Vessel Detection on Satellite Imagery: A Comparative Study on Single-Shot Detectors](https://www.mdpi.com/2072-4292/12/7/1217) (**2020 - MDPI Remote Sensing**)
 
 ### Conference
- - [2020 - MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
+ - [2020-MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos](https://arxiv.org/abs/2008.01699) (**ACM-MM 2020**)
+ - [2020-Density Map Guided Object Detection in Aerial Images](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w11/Li_Density_Map_Guided_Object_Detection_in_Aerial_Images_CVPRW_2020_paper.pdf)(**CVPRW-2020**)
  
 ## 2019 Papers
 ### Journals
 - [2019-ORSIm Detector: A novel object detection framework in optical remote sensing imagery using spatial-frequency channel features](https://ieeexplore.ieee.org/abstract/document/8654203/) (**2019 - IEEE Transactions on Geoscience and Remote Sensing**)
 - [2019-Dac-sdc low power object detection challenge for uav applications](https://ieeexplore.ieee.org/abstract/document/8787881/) (**2019-TPAMI**)
-- [2019 - AVDNet: A SmallSized Vehicle Detection Network for Aerial Visual Data](https://arxiv.org/abs/1907.07477) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
-- [2019 - Vehicle Detection in High-Resolution Images Using Superpixel Segmentation and CNN Iteration Strategy](https://www.researchgate.net/publication/327616822_Vehicle_Detection_in_High-Resolution_Images_Using_Superpixel_Segmentation_and_CNN_Iteration_Strategy) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
-- [2019 - Adaptive Anchor for Fast Object Detection in Aerial Image](https://ieeexplore.ieee.org/document/8824218/) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
-- [2019 - Local Attention Networks for Occluded Airplane Detection in Remote Sensing Images](https://ieeexplore.ieee.org/document/8769873/) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
+- [2019-AVDNet: A SmallSized Vehicle Detection Network for Aerial Visual Data](https://arxiv.org/abs/1907.07477) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
+- [2019-Vehicle Detection in High-Resolution Images Using Superpixel Segmentation and CNN Iteration Strategy](https://www.researchgate.net/publication/327616822_Vehicle_Detection_in_High-Resolution_Images_Using_Superpixel_Segmentation_and_CNN_Iteration_Strategy) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
+- [2019-Adaptive Anchor for Fast Object Detection in Aerial Image](https://ieeexplore.ieee.org/document/8824218/) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
+- [2019-Local Attention Networks for Occluded Airplane Detection in Remote Sensing Images](https://ieeexplore.ieee.org/document/8769873/) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 - [2019-Multi-Scale Spatial and Channel-wise Attention for Improving Object Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/document/8807319/) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 - [2019-Vehicle Detection From High-Resolution Remote Sensing Imagery Using Convolutional Capsule Networks](https://ieeexplore.ieee.org/document/8709752/) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 - [2019-Scale adaptive proposal network for object detection in remote sensing images](https://ieeexplore.ieee.org/abstract/document/8605345) (**2019 - IEEE Geoscience and Remote Sensing Letters**)
 
 ### Conference
-- [2019-Learning RoI Transformer for Oriented Object Detection in Aerial Images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Learning_RoI_Transformer_for_Oriented_Object_Detection_in_Aerial_Images_CVPR_2019_paper.pdf) (**-CVPR-2019**)
+- [2019-Clustered object detection in aerial images](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Clustered_Object_Detection_in_Aerial_Images_ICCV_2019_paper.pdf)(**ICCV-2019**)
+-[2019-How to fully exploit the abilities of aerial image detectors](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VISDrone/Zhang_How_to_Fully_Exploit_The_Abilities_of_Aerial_Image_Detectors_ICCVW_2019_paper.pdf)(**ICCVW-2019**)
+- [2019-Learning RoI Transformer for Oriented Object Detection in Aerial Images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Learning_RoI_Transformer_for_Oriented_Object_Detection_in_Aerial_Images_CVPR_2019_paper.pdf) (**CVPR-2019**)
  - [2019-SSSDET: Simple Short and Shallow Network for Resource Efficient Vehicle Detection in Aerial Scenes](https://ieeexplore.ieee.org/abstract/document/8803262/) (**ICIP-2019**)
  - [2019-SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects](SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects) (**ICCV-2019**)
  - [2019-Cropping Region Proposal Network Based Framework for Efficient Object Detection on Large Scale Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/8784756/) (**ICME-2019**)
